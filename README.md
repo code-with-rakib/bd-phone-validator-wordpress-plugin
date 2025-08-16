@@ -1,0 +1,1 @@
+# bd-phone-validator-wordpress-plugin
